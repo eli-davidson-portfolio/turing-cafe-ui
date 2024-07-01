@@ -91,8 +91,4 @@ To set up the project locally, follow these steps:
 
 ![turing-cafe-screenshot](https://user-images.githubusercontent.com/20754511/57332366-dbd59d00-70d7-11e9-9de6-967d7aca98a4.png)
 
-## Author
-
-- [Your Name](https://github.com/your-username)
-
 Feel free to reach out with any questions or feedback!
